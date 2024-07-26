@@ -1,0 +1,29 @@
+*{
+    font-family: "Open Sans", sans-serif;
+    margin: auto;
+}
+.main {
+    border: 2px solid black;
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+    padding-top: 20px;
+    margin-top: 30px;
+    background-color: rgb(230, 228, 129);
+}
+ol li {
+    list-style-type: none;
+}
+ul li {
+    list-style-type: none;
+}
+h1 {
+    color: rgb(22, 28, 56);
+    margin-top: 20px;
+}
+p{
+    text-align: center;
+    text-decoration:burlywood;
+    text-decoration-line: underline;
+    font-size: 20px
+}
